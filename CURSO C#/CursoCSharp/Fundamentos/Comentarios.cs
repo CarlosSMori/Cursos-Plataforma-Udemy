@@ -6,7 +6,7 @@ namespace CursoCSharp.Fundamentos {
     class Comentarios {
         public static void Executar() {
 
-            //cuidado com comentarios desnecessários
+            // Cuidado com comentários desnecessários
             Console.WriteLine("Codigo claro é sempre melhor!");
 
             /// <summary>
@@ -21,8 +21,8 @@ namespace CursoCSharp.Fundamentos {
             Console.WriteLine("Comentarios de multiplas linhas");
 
 
-            Console.WriteLine("Comando CRT + k , CRT + C comenta seleção");
-            Console.WriteLine("Comando CRT + k , CRT + u descomenta seleção");
+            Console.WriteLine("Comando CRT + K , CRT + C comenta seleção");
+            Console.WriteLine("Comando CRT + K , CRT + U descomenta seleção");
         }
     }
 }
