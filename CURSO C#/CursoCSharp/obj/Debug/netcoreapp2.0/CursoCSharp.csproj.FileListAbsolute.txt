@@ -8,3 +8,15 @@ E:\Cursos de Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp
 E:\Cursos de Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
 E:\Cursos de Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.dll
 E:\Cursos de Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.pdb
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.deps.json
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.json
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.runtimeconfig.dev.json
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.dll
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\bin\Debug\netcoreapp2.0\CursoCSharp.pdb
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csprojAssemblyReference.cache
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.csproj.CoreCompileInputs.cache
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfoInputs.cache
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.AssemblyInfo.cs
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.dll
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.pdb
+E:\GitHub\Cursos-Plataforma-Udemy\CURSO C#\CursoCSharp\obj\Debug\netcoreapp2.0\CursoCSharp.genruntimeconfig.cache
