@@ -8,6 +8,8 @@ namespace CursoCSharp.Fundamentos {
             var saudacao = "olá".ToUpper().Insert(3, " world!").Replace("world!", "Mundo!");
             Console.WriteLine(saudacao);
             Console.WriteLine(saudacao.Length);
+            string valorImportante = null;
+            Console.WriteLine(valorImportante?.Length);
         }
     }
 }
