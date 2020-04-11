@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace CursoCSharp.Fundamentos {
     class FormatandoNumero {
@@ -15,9 +16,19 @@ namespace CursoCSharp.Fundamentos {
             // Usado para formatar em Porcentagem.
             Console.WriteLine(valor.ToString("P"));
 
-
+            // Usado para formatar em Decimal.
             Console.WriteLine(valor.ToString("#.##"));
 
+            // Usado para formatar em moeda Brasileira.
+            CultureInfo cultura = new CultureInfo("pt-BR");
+            Console.WriteLine(valor.ToString("C2", cultura));
+           
+            // Usado para formatar em moeda Américana
+            CultureInfo culture = new CultureInfo("en-US");
+            Console.WriteLine(valor.ToString("C3", culture));
+
+            int inteiro = 256;
+            Console.WriteLine(inteiro.ToString("D10"));
         }
     }
 }
