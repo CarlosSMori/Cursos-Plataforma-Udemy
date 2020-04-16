@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturaDeControle;
-
+using CursoCSharp.ClassesEMetodos;
 namespace CursoCSharp {
     class Program {
         static void Main(string[] args) {
@@ -32,6 +32,13 @@ namespace CursoCSharp {
                 { "Estrutura Switch - Estrutura De Controle",EstruturaSwitch.Executar},
                 { "Estrutura While - Estrutura De Controle",EstruturaWhile.Executar},
                 { "Estrutura Do While - Estrutura De Controle", EstruturaDoWhile.Executar},
+                { "Estrutura For - Estrutura De Controle", EstruturaFor.Executar},
+                { "Estrutura ForEach - Estrutura De Controle",EstruturaForEach.Executar},
+                { "Usando Break - Estrutura De Controle", UsandoBreak.Executar},
+                { "Usando Continue - Estrutura De Controle", UsandoContinue.Executar},
+
+                // Classes E Métodos
+                { "Membros - Classes E Métodos", Membros.Executar},
             });
 
             central.SelecionarEExecutar();
