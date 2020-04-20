@@ -9,7 +9,7 @@ namespace CursoCSharp.ClassesEMetodos {
             sicrano.Nome = "Carlos S. Mori";
             sicrano.Idade = 38;
 
-            //Console.WriteLine($"{ sicrano.Nome} tem { sicrano.Idade} anos.");
+            Console.WriteLine($"{ sicrano.Nome} tem { sicrano.Idade} anos.");
 
             sicrano.ApresentarNoConsole();
             sicrano.Zerar();
@@ -20,7 +20,7 @@ namespace CursoCSharp.ClassesEMetodos {
             fulano.Idade = 21;
 
             var apresentacaoDoFulano = fulano.Apresentar();
-            Console.WriteLine(apresentacaoDoFulano.Length);
+            //Console.WriteLine(apresentacaoDoFulano.Length);
             Console.WriteLine(apresentacaoDoFulano);
         }
 
