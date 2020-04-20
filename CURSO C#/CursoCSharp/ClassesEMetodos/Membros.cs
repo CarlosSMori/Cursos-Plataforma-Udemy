@@ -8,7 +8,20 @@ namespace CursoCSharp.ClassesEMetodos {
             Pessoa sicrano = new Pessoa();
             sicrano.Nome = "Carlos S. Mori";
             sicrano.Idade = 38;
-            Console.WriteLine($"{ sicrano.Nome} tem { sicrano.Idade} anos.");
+
+            //Console.WriteLine($"{ sicrano.Nome} tem { sicrano.Idade} anos.");
+
+            sicrano.ApresentarNoConsole();
+            sicrano.Zerar();
+            sicrano.ApresentarNoConsole();
+
+            var fulano = new Pessoa();
+            fulano.Nome = "Beto";
+            fulano.Idade = 21;
+
+            var apresentacaoDoFulano = fulano.Apresentar();
+            Console.WriteLine(apresentacaoDoFulano.Length);
+            Console.WriteLine(apresentacaoDoFulano);
         }
 
     }
