@@ -11,7 +11,7 @@ namespace CursoCSharp.ClassesEMetodos {
             }
         }
         public static void Executar() {
-            Recepcionar("Carlos", "Pedro", "André");
+            Recepcionar("Carlos", "Pedro", "André", "Fábio");
         }
     }
 }
