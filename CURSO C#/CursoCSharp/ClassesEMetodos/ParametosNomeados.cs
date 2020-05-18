@@ -5,7 +5,7 @@ using System.Text;
 namespace CursoCSharp.ClassesEMetodos {
     class ParametosNomeados {
         public static void Formatar(int dia, int mes, int ano) {
-            Console.WriteLine("{0:D2}/{1:D2}/{2}", dia, mes ,ano);
+            Console.WriteLine("{0:D2}/{1:D2}/{2}", dia, mes , ano);
         }
 
         public static void Executar() {

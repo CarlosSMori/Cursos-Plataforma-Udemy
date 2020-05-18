@@ -46,6 +46,7 @@ namespace CursoCSharp {
                 { "Desafio Atributo - Classes E Métodos",DesafioAtributo.Executar},
                 { "Params - Classes E Métodos",Params.Executar},
                 { "Paramêtros Nomeados - Classes E Métodos",ParametosNomeados.Executar },
+                { "Get e Set E Classes - Métodos",GetSet.Executar},
             });
 
             central.SelecionarEExecutar();
